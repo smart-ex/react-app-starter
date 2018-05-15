@@ -1,38 +1,32 @@
 # React App Starter
+
 > Starter for your next awesome React application
 
 ## Installation
 
 ```sh
-
 yarn install
-
 ```
 
 or
 
 ```sh
-
 npm install
-
 ```
 
 ## Fast start
 
 ```sh
-
 gulp
-
 ```
 
 ## Build for production
 
 ```sh
-
 gulp build --env production
-
 ```
 
+fdfdf
 
 # Core libs
 
